@@ -15,6 +15,7 @@ The project involves direct interaction with both the Dlib library's face detect
 # opened
 ![dj](https://github.com/captainaj7/Driver_Drowsiness_Detection/assets/91454482/241486f9-bf56-49d0-a329-8aabd63f7a93)  
 
+
 # closed
-![dj](https://github.com/captainaj7/Driver_Drowsiness_Detection/assets/91454482/46ec62a7-1fd2-4351-9bda-cb90d88bb007)
+![vvgg](https://github.com/captainaj7/Driver_Drowsiness_Detection/assets/91454482/69b40af0-97ab-4aa6-b9b8-265c6e5ac0f4)
 
