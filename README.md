@@ -6,8 +6,8 @@ The project involves direct interaction with both the Dlib library's face detect
 
 # Working
 1) The screenshot above illustrates how the detector is used to identify landmarks.
-2) 
-3) At this point, we are calculating the ratio, which is expressed as follows: "Sum of vertical landmark distances divided by twice the horizontal landmark distances."
-4) 
-5) At this point, the ratio is entirely reliant on your system, which you may customise to meet the standards for active, drowsy, and sleeping.
+ 
+2) At this point, we are calculating the ratio, which is expressed as follows: "Sum of vertical landmark distances divided by twice the horizontal landmark distances."
+ 
+3) At this point, the ratio is entirely reliant on your system, which you may customise to meet the standards for active, drowsy, and sleeping.
 
