@@ -11,3 +11,9 @@ The project involves direct interaction with both the Dlib library's face detect
  
 3) At this point, the ratio is entirely reliant on your system, which you may customise to meet the standards for active, drowsy, and sleeping.
 
+
+
+![dj](https://github.com/captainaj7/Driver_Drowsiness_Detection/assets/91454482/241486f9-bf56-49d0-a329-8aabd63f7a93)
+
+
+
